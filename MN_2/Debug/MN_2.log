@@ -1,0 +1,6 @@
+﻿  maincpp.cpp
+c:\users\łukasz\desktop\programy\c++\mn_2\mn_2\maincpp.cpp(158): warning C4244: '=': conversion from '__int64' to 'double', possible loss of data
+c:\users\łukasz\desktop\programy\c++\mn_2\mn_2\maincpp.cpp(183): warning C4244: '=': conversion from '__int64' to 'double', possible loss of data
+c:\users\łukasz\desktop\programy\c++\mn_2\mn_2\maincpp.cpp(208): warning C4244: '=': conversion from '__int64' to 'double', possible loss of data
+  MN_2.vcxproj -> C:\Users\Łukasz\Desktop\Programy\C++\MN_2\Debug\MN_2.exe
+  MN_2.vcxproj -> C:\Users\Łukasz\Desktop\Programy\C++\MN_2\Debug\MN_2.pdb (Partial PDB)
